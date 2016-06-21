@@ -7,12 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		6E2538091D19BB80003E3400 /* AFDayCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 6E2538021D19BB80003E3400 /* AFDayCell.h */; };
+		6E2538091D19BB80003E3400 /* AFDayCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 6E2538021D19BB80003E3400 /* AFDayCell.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6E25380A1D19BB80003E3400 /* AFDayCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E2538031D19BB80003E3400 /* AFDayCell.m */; };
-		6E25380B1D19BB80003E3400 /* AFDaysCollectionViewFlowLayout.h in Headers */ = {isa = PBXBuildFile; fileRef = 6E2538041D19BB80003E3400 /* AFDaysCollectionViewFlowLayout.h */; };
+		6E25380B1D19BB80003E3400 /* AFDaysCollectionViewFlowLayout.h in Headers */ = {isa = PBXBuildFile; fileRef = 6E2538041D19BB80003E3400 /* AFDaysCollectionViewFlowLayout.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6E25380C1D19BB80003E3400 /* AFDaysCollectionViewFlowLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E2538051D19BB80003E3400 /* AFDaysCollectionViewFlowLayout.m */; };
-		6E25380D1D19BB80003E3400 /* AFDefaultColorScheme.h in Headers */ = {isa = PBXBuildFile; fileRef = 6E2538061D19BB80003E3400 /* AFDefaultColorScheme.h */; };
-		6E25380E1D19BB80003E3400 /* AFHorizontalDayPicker.h in Headers */ = {isa = PBXBuildFile; fileRef = 6E2538071D19BB80003E3400 /* AFHorizontalDayPicker.h */; };
+		6E25380D1D19BB80003E3400 /* AFDefaultColorScheme.h in Headers */ = {isa = PBXBuildFile; fileRef = 6E2538061D19BB80003E3400 /* AFDefaultColorScheme.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		6E25380E1D19BB80003E3400 /* AFHorizontalDayPicker.h in Headers */ = {isa = PBXBuildFile; fileRef = 6E2538071D19BB80003E3400 /* AFHorizontalDayPicker.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6E25380F1D19BB80003E3400 /* AFHorizontalDayPicker.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E2538081D19BB80003E3400 /* AFHorizontalDayPicker.m */; };
 /* End PBXBuildFile section */
 
