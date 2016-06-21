@@ -6,9 +6,9 @@
 //  Copyright (c) 2015 alexfedosov. All rights reserved.
 //
 
+#import <MTDates/MTDates.h>
 #import "AFHorizontalDayPicker.h"
 #import "AFDaysCollectionViewFlowLayout.h"
-#import "NSDate+MTDates.h"
 #import "AFDefaultColorScheme.h"
 
 @interface AFHorizontalDayPicker()<UICollectionViewDataSource, UICollectionViewDelegate, UICollectionViewDelegateFlowLayout>
