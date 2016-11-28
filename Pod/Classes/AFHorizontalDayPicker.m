@@ -11,7 +11,7 @@
 #import "AFDaysCollectionViewFlowLayout.h"
 #import "AFDefaultColorScheme.h"
 
-@interface AFHorizontalDayPicker()<UICollectionViewDataSource, UICollectionViewDelegate, UICollectionViewDelegateFlowLayout>
+@interface AFHorizontalDayPicker() <UICollectionViewDataSource, UICollectionViewDelegate, UICollectionViewDelegateFlowLayout>
 
 @property (nonatomic, strong) UICollectionView *daysCollectionView;
 @property (nonatomic, strong) UIView *topSeparator;
